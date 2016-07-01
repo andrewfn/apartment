@@ -3,12 +3,18 @@ $VER=2.7
 $include code.txt
 $a_attr=target="_blank"
 
+$ROW $COL
+.[[http://oc-andrewfn.rhcloud.com/public.php?service=gallery&t=ad052ea021743944ac16dd57e6bdc3fa Click for photo gallery]]
+$END $END
+
 //$include slideshow.txt
 
 $ROW $COL
 .$TITLE
--Address: 360 Sackville St.
+-Single bedroom plus large living area/kitchen & bathroom
+-Address: 360 Sackville St. Toronto ON M4X 1S4
 -Price $1,000/month including utilities
+-Private entrance at the side of the house, with separate access to the street via a side-gate
 -Availablitiy: August 1, 2016
 $END $END
 
