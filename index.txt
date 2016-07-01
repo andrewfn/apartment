@@ -18,5 +18,9 @@ $ROW $COL
 -Private entrance at the side of the house, with separate access to the street via a side-gate
 -Availablitiy: August 1, 2016
 $END $END
+$ROW $COL
+..Floor Plan
+[[floor-plan.png Floor Plan]]
+$END $END
 
 
