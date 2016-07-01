@@ -3,8 +3,9 @@ $VER=2.7
 $include code.txt
 $a_attr=target="_blank"
 
+$imgbase=images/
 $ROW $COL
-.[[http://oc-andrewfn.rhcloud.com/public.php?service=gallery&t=ad052ea021743944ac16dd57e6bdc3fa Click for photo gallery]]
+[[http://oc-andrewfn.rhcloud.com/public.php?service=gallery&t=ad052ea021743944ac16dd57e6bdc3fa [[gallery.jpg Image Gallery]]/+Click Image for Photo gallery]]
 $END $END
 
 //$include slideshow.txt
