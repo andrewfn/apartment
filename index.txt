@@ -5,7 +5,7 @@ $a_attr=target="_blank"
 
 $imgbase=images/
 $ROW $COL
-[[http://oc-andrewfn.rhcloud.com/public.php?service=gallery&t=ad052ea021743944ac16dd57e6bdc3fa [[gallery.jpg Image Gallery]]/+Click Image for Photo gallery]]
+[[http://oc-andrewfn.rhcloud.com/public.php?service=gallery&t=ad052ea021743944ac16dd57e6bdc3fa [[gallery.jpg Image Gallery]]/+Click above for photo gallery]]
 $END $END
 
 //$include slideshow.txt
@@ -17,6 +17,7 @@ $ROW $COL
 -Price $1,000/month including utilities
 -Private entrance at the side of the house, with separate access to the street via a side-gate
 -Availablitiy: August 1, 2016
+-Contact Anne: 416-515-7575 or [[mailto:andrew@nlife.ca]]
 $END $END
 $ROW $COL
 ..Floor Plan
