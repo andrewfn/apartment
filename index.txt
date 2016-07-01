@@ -1,54 +1,15 @@
-//.Basement Apartment @360 Sackville St.
+//.Basement Apartment for Rent
 $VER=2.7
 $include code.txt
-
-////////////////// Navigation Menu
-<div class="fixed"><nav class="top-bar" data-topbar role="navigation">
-$ul_class1=title-area
-$li_class1=name
--<h1>[[# Roselyn]]</h1>
-$li_class1=toggle-topbar menu-icon
--[[# <span>Menu</span>]]
-
-<section class="top-bar-section">
-$ul_class1=left
-//$li_class1=active
--[[#bio Bio]]
--[[#resume Resume]]
--[[#demo Demo]]
--[[#next Now&Next]]
--[[#skills Skills]]
--[[#contact Contact]]
--[[#work Creative Work]]
-</section>
-</nav></div>
 $a_attr=target="_blank"
 
-$block_id=home
-$block_style1=margin-top:0.5em;
-$include slideshow.txt
-$include contact-bar.txt
+//$include slideshow.txt
 
-//$include home-with-sidebar.txt
-
-$Id bio
 $ROW $COL
-.Bio
-$END $COL medium-6
-Roselyn Kelada-Sedra is an actor based in Toronto, Canada. Roselyn has worked on stages in Canada, England, the U.S. and Europe. Her first love is Shakespearean theatre, and that led to training at [[https://www.rada.ac.uk RADA]] and… everything since. 
-
-Roselyn trained in Shakespearean theatre acting at the [[https://www.rada.ac.uk Royal Academy of Dramatic Art]], at [[http://www.dahteatarcentar.com DAH Teatar]] in Serbia, and in Canada at the [[http://www.voiceintensive.org National Voice Intensive]], [[http://www.lonsdalesmithstudios.com Lonsdale Smith Studios]] and the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. She made her TV debut on CBC in [[http://www.cbc.ca/smartestperson/ Canada’s Smartest Person]], and she is making her webseries debut in [[http://www.imdb.com/title/tt4977510/ IRL: The Series]], airing in 2016. 
-
-Roselyn completed a 3-year apprenticeship as an actor and theatre-maker with the Toronto theatre company, [[http://bcurrent.ca b current]]. She has written, adapted and devised plays produced on Toronto stages. She also created the role of Death as a harpist in DASH, a devised theatre piece based on Emily Dickinson poems.
-$END $COL medium-6
-$ukh
-$END $END $ROW $COL
--Best advice she knows about art & life: 
- “You can’t be afraid to fail and fail BIG. There’s no chance to ever be good otherwise.” 
- -Hilary Douglas-Wood, founder of [[http://www.thelir.ie The Lir, National Academy of Dramatic Art, Ireland]].
-
--Best advice about$... taking advice:
- "There are no answers here. Simply breathe now." 
- -Cindy Tanas, Owner of the [[http://www.cindytanas.com/ Cindy Tanas Actors Studio]]. 
+.$TITLE
+-Address: 360 Sackville St.
+-Price $1,000/month including utilities
+-Availablitiy: August 1, 2016
 $END $END
+
 
